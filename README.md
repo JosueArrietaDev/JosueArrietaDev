@@ -1,7 +1,7 @@
 ## Hi there, I am Josue Arrieta 👋
 **Developer Web junior**
 
-<a href="#" target="_blank"><img src="/images/creacionIA" 
+<a href="https://www.linkedin.com/in/josue-ezequiel-arrieta-691600307/" target="_blank"><img src="/images/creacionIA.jpg" 
    borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
 
 Here are some ideas to get you started:
